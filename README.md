@@ -8,7 +8,7 @@ This repository documents my journey of discovering and exploring one AI tool ev
 
 | Date       | Tool Name             | Description                          | Link                                                      |
 |------------|-----------------------|--------------------------------------|-----------------------------------------------------------|
-| 2024-06-27 | [Tubebuddy]           | The ultimate growth tool for YouTube channels        | [Link to the Tool](https://www.tubebuddy.com/)|
+| 2024-06-27 | Tubebuddy           | The ultimate growth tool for YouTube channels        | [Link to the Tool](https://www.tubebuddy.com/)|
 | 2024-06-28 | [Tool Name]           | Brief description of the tool        | [Link to the Tool](URL)                                   |
 | 2024-06-29 | [Tool Name]           | Brief description of the tool        | [Link to the Tool](URL)                                   |
 
